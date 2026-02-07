@@ -1,10 +1,10 @@
-1# Exam Timetable
+# Exam Timetable
 
 A Flutter mobile app that displays a chronologically sorted list of exams with their dates, times, and locations. Tap any exam card to view detailed information including the remaining time until the exam.
 
 ## Demo
 
-[Watch Demo Video](raspored_za_ispiti_demo.mp4)
+[Watch Demo Video](https://youtube.com/shorts/ydzs9UrCfO0)
 
 ## Features
 
